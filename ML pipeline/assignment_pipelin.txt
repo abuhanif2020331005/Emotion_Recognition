@@ -1,0 +1,7 @@
+data Acqiuisation: Public Datasets
+Text Preparation : conversion to small letters and removing  stop words ,and tokenization .
+Feature Engineering : Creating column with same (synonyms) words ,and also assign 1 if they have same meaning
+modeling: classification 
+deployment: 
+
+ 
