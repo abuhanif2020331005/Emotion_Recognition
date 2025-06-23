@@ -12,7 +12,7 @@ This project aims to classify text data into predefined emotional categories suc
 - Angry
 - Fearful
 - Surprised
-- Neutral
+  
 
 We built and evaluated multiple machine learning models using standard NLP preprocessing techniques.
 
